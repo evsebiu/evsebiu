@@ -14,6 +14,6 @@ I successfully completed a 6-month accredited Java training program with <br>ITS
 
 ---
 [![](https://visitcount.itsvg.in/api?id=evsebiu&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://komarev.com/ghpvc/?evsebiu)
+![](https://komarev.com/ghpvc/?username=evsebiu&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
