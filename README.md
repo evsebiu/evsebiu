@@ -1,5 +1,5 @@
 # 💫 About Me:
-I successfully completed a 6-month accredited Java training program with <br>ITSchool Romania. My portfolio includes a Community Health Medical System project, <br>and I’m currently developing two active websites — one for a kinetotherapy clinic and<br> another for a local barbershop that features an online appointment system( coming soon on github ).<br> Both websites are designed to be fully functional and actively used by clients.<br>I like cats and coffe, and I was a filmmaker for over 4 years.<br> <br> Right now looking to contribute to open-source projects. Contact me to get in touch <br>
+I successfully completed a 6-month accredited Java training program with <br>ITSchool Romania. My portfolio includes a Community Health Medical System project, <br>and I’m currently developing two active websites — one for a kinetotherapy clinic and<br> another for a local barbershop that features an online appointment system<br> Both websites are designed to be fully functional and actively used by clients.<br>I like cats and coffe, and I was a filmmaker for over 4 years.<br> <br> Right now looking to contribute to open-source projects. Contact me to get in touch <br>
 
 ![](https://komarev.com/ghpvc/?username=evsebiu&color=green)
 
